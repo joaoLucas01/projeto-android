@@ -1,0 +1,1 @@
+print("ai meu cu")
